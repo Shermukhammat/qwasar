@@ -1,0 +1,5 @@
+link to my blog post : https://medium.com/@temirovshermukhammad/reinforcement-learning-for-atari-games-ecaa2a436acf
+
+link to my github repository : https://github.com/SHermukhammadjon/Atari-Games
+
+link to my google colab notebook : https://colab.research.google.com/drive/16oLviti_LqGvuTWujt_RMebhULuzP1S3?usp=sharing

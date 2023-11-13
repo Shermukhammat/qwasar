@@ -1,0 +1,8 @@
+link to blog post : https://medium.com/@temirovshermukhammad/my-paypal-fraud-detection-ddb72542064a
+
+
+
+I used google colab becose it's convenient and fast. I couldn't use Docode.
+
+link to colab notebook : https://colab.research.google.com/github/SHermukhammadjon/My_Paypal/blob/main/my_paypal.ipynb
+link to my github repostory : https://github.com/SHermukhammadjon/My_Paypal
